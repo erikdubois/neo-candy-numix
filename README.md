@@ -12,7 +12,11 @@ A colour variant of the [neo-candy-icons](https://github.com/erikdubois/neo-cand
 
 ## Installation (Arch / Kiro — nemesis_repo)
 
-```
+```bash
+# Everything — the whole Neo Candy collection (base + all variants)
+sudo pacman -S neo-candy-icons-meta
+
+# Only this variant
 sudo pacman -S neo-candy-numix-icons-git
 ```
 
